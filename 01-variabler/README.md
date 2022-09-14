@@ -18,16 +18,16 @@
     const name = "Emil"
     name = name.toLowerCase() // makes a string lower case, converts a string to lowercase
     trim() // deletes blank space at the beginning and the end of a string
-    splice() // 
-    push() // 
-    floor() // rounds down
-    ceil() // rounds up
 ```
 
 
 
-## Heltal och decimaltal
+## Heltal och decimaltal // int and float
 ```
+    use parseInt(arg) or parseFloat(arg) to parse an integer or a float
+    Will result in NaN (Not a Number) if the argument is not parsable as a number.
+    Use isNaN() to check the result, will return either as True or as False
+
     integer, 
     Double, 
     float,
@@ -42,13 +42,16 @@
 - Subtraktion
 * Multiplikation
 / Division
-% Modulo, remainder
+% Modulus, remainder
     && ||
 ```
 
 
 ## Boolean
-True && false
+```
+    True && False.
+    if(1 == "1") "Truey" - true but not true // use === if you want if(1 === "1") to be false
+```
 
 ## Array
 ```

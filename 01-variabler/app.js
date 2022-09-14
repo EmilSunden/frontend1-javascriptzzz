@@ -27,6 +27,15 @@ jumpFolder([path.resolve(__dirname,
 // C:\\Users\\emil_\\OneDrive\\Desktop\\frontend1-javascriptzzz\\
 
 
+let number = "1"
+console.log(parseFloat(number))
+
+
+parseInt
+
+
+
+
 
 
 

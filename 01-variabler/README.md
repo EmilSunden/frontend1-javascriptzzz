@@ -55,5 +55,9 @@
 
 ## Array
 ```
-
+    Used to store sets of data to retrieve later
+    let names = ["Emil", "Kenneth", "Robin", "Alex"] // first item is of index 0 since javascript is zero-based, 
+    2nd item is of index 1,
+    3rd item is of index 2.
+    console.log(names[0]) => 'Emil'
 ```
